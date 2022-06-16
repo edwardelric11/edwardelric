@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swastikpradhan
-- 👀 I’m interested in Web 3 and DeFI.
+- 👀 I’m interested in Web 3 and DeFi.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web3 and defi projects.
 - 📫 How to reach me: swastikpradhan007@gmail.com
