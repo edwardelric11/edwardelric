@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swastikpradhan
+- 👋 Hi, I’m @edwardelric11
 - 👀 I’m interested in Web 3 and DeFi.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web3 and defi projects.
