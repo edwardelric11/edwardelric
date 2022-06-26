@@ -2,9 +2,8 @@
 - 👀 I’m interested in Web 3 and DeFi.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web3 and defi projects.
-- 📫 How to reach me: swastikpradhan007@gmail.com
-
+- 📫 How to reach me: edwardelric#5976 on Discord
 <!---
-swastikpradhan/swastikpradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+edwardelric11/edwardelric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
